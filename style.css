@@ -69,7 +69,7 @@ body {
 .result{
     height: 350px;
     width: 650px;
-    background-color: #777;
+    background-color: #999;
     display: none;
     border-radius: 9px;
     justify-content: center;
@@ -87,7 +87,7 @@ body {
     font-weight: bold;
     font-size: 34px;
     margin-bottom: 15px;
-    color: rgb(4, 93, 4);
+    color: rgb(21, 111, 21);
 
 }
 .result-hits-description{
@@ -100,6 +100,6 @@ body {
     border-radius: 9px;
     background-color: #444;
     font-weight: bold;
-    color: #888;
+    color: #bbb;
     border: 1px solid #444
 }
