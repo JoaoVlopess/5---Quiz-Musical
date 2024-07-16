@@ -35,26 +35,26 @@ let questions = [
             'Nota = som isolado | Acorde = conjunto de 3 ou + notas',
             'Nota = conjunto de acordes | Acorde = conjunto de notas',
             'Nota = C,D,E,F,G,A,B | Acorde = conjunto de 3 ou + notas',
-            'Nota = som isolado | Acorde = conjunto de 3 ou + notas'
+            'Nota = som isolado | Acorde = conjunto de 4 ou + notas'
         ],
         answer: 0
     },
     {
         question: 'Sobre as notas , responda a questão :',
         options: [
-            'São representadas apenas por C,D,E,F,G,A,B e podem ser modificadas(m.7,...)',
-            'São representadas apenas por C,D,E,F,G,A,B e não podem ser modificadas(m.7,...)',
-            'São representadas apenas por C até B + acidentes e podem ser modificadas(m.7,...)',
-            'São representadas apenas por C até B + acidentes e não podem ser modificadas(m.7,...)'
+            'São representadas apenas por C,D,E,F,G,A,B e podem ser modificadas(m,7,...)',
+            'São representadas apenas por C,D,E,F,G,A,B e não podem ser modificadas(m,7,...)',
+            'São representadas apenas por C até B + acidentes e podem ser modificadas(m,7,...)',
+            'São representadas apenas por C até B + acidentes e não podem ser modificadas(m,7,...)'
         ],
-        answer: 2
+        answer: 3
     },
     {
         question: 'Responda a alternativa correta :',
         options: [
-            'Meio tom Depois do E é o E#',
+            'Três tons Depois do E é o Ab',
             'Meio tom abaixo do G é o G#',
-            'Meio tom acima do B é o B#',
+            'Dois tons acima do B é o D',
             'Um tom depois do E é o F#'
         ],
         answer: 3

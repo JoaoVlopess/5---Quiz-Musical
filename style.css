@@ -66,8 +66,40 @@ body {
     border-radius: 20px;
     color: #888;
 }
-.resultado{
-    height: 180px;
-    width: 550px;
+.result{
+    height: 350px;
+    width: 650px;
+    background-color: #777;
     display: none;
+    border-radius: 9px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #262626;
+}
+.result-title{
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 15px;
+    color: #000;
+}
+.result-hits{
+    font-weight: bold;
+    font-size: 34px;
+    margin-bottom: 15px;
+    color: rgb(4, 93, 4);
+
+}
+.result-hits-description{
+    font-size: 18px;
+    margin-bottom: 35px;
+}
+.restart{
+    width:130px;
+    height: 33px;
+    border-radius: 9px;
+    background-color: #444;
+    font-weight: bold;
+    color: #888;
+    border: 1px solid #444
 }
